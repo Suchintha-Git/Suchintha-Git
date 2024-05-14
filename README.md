@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/suchintha suriyaarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suchintha suriyaarachchi" height="30" width="40" /></a>
 <a href="https://fb.com/suchintha akalanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suchintha akalanka" height="30" width="40" /></a>
 <a href="https://instagram.com/suchintha_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suchintha_99" height="30" width="40" /></a>
-<a href="https://www.behance.net/suchintha suriyaarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/suchintha" height="30" width="40" /></a>
+<a href="https://www.behance.net/suchintha suriyaarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="suchintha" height="30" width="40" /></a>
 </p>
 
 
